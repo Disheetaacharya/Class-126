@@ -1,0 +1,62 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+    box-shadow: 7px 7px 7px white;
+}
+
+.note
+{
+    color: black;
+    font-size: 15px;
+    font-family: 'Special Elite', cursive;
+}
+
+.sound_speed
+{
+    float: left;
+}
+
+.img_speed
+{
+    border-radius: 100px;
+    margin: 0;
+    width: 200px;
+}
+
+#speed
+{
+    margin: 15px;
+    font-size: 23px;
+}
+
+.sound_volume
+{
+    float: right;
+}
+
+.img_volume
+{
+    border-radius: 100px;
+    margin: 0;
+    width: 200px;
+}
+
+#volume
+{
+    margin: 15px;
+    font-size: 23px;
+}
+
+#start
+{
+    font-size: 23px;
+}
+
+
+
+
